@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-40a7b978\",\"path\":\"/go/gc/chufatiaojian.html\",\"title\":\"gc的触发条件\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"gc的触发条件\",\"date\":\"2022-04-14T02:16:38.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/gc/chufatiaojian.md\"}")

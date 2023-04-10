@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-44c2810c\",\"path\":\"/go/gc/taoyi.html\",\"title\":\"逃逸分析\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"逃逸分析\",\"date\":\"2022-04-14T02:15:29.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/gc/taoyi.md\"}")

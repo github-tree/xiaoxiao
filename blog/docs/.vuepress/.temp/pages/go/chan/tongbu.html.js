@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-0c1fb3e3\",\"path\":\"/go/chan/tongbu.html\",\"title\":\"无缓冲 Chan 的发送和接收是否同步?\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"无缓冲 Chan 的发送和接收是否同步?\",\"date\":\"2022-04-14T02:05:54.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/chan/tongbu.md\"}")

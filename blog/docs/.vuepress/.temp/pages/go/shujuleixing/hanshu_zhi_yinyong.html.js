@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-c151111c\",\"path\":\"/go/shujuleixing/hanshu_zhi_yinyong.html\",\"title\":\"函数传参是值类型还是引用类型\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"函数传参是值类型还是引用类型\",\"date\":\"2022-04-14T01:07:27.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/shujuleixing/hanshu_zhi_yinyong.md\"}")

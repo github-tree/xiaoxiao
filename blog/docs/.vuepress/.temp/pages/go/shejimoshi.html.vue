@@ -1,0 +1,28 @@
+<template><div><h5 id="_1-创建型模式" tabindex="-1"><a class="header-anchor" href="#_1-创建型模式" aria-hidden="true">#</a> 1.创建型模式</h5>
+<p><strong>单例模式</strong>：单例模式指的是全局只有一个实例，并且它负责创建自己的对象
+例如数据库实例、全局配置、全局任务池等。</p>
+<ul>
+<li>饿汉方式指全局的单例实例在包被加载时创建</li>
+<li>懒汉方式指全局的单例实例在第一次被使用时创建。</li>
+</ul>
+<p><strong>工厂模式</strong>：</p>
+<ul>
+<li><strong>简单工厂模式</strong>：就是一个接受一些参数，然后返回实例的函数。可以确保我们创建的实例具有需要的参数，进而保证实例的方法可以按预期执行</li>
+<li><strong>抽象工厂模式</strong>：它和简单工厂模式的唯一区别，就是它返回的是接口而不是结构体。通过返回接口，可以在你不公开内部实现的情况下，让调用者使用你提供的各种功能</li>
+<li><strong>工厂方法模式</strong>：依赖工厂函数，我们可以通过实现工厂函数来创建多种工厂</li>
+</ul>
+<h5 id="_2-结构型模式" tabindex="-1"><a class="header-anchor" href="#_2-结构型模式" aria-hidden="true">#</a> 2.结构型模式</h5>
+<ul>
+<li><strong>策略模式</strong>：定义一组算法，将每个算法都封装起来，并且使它们之间可以互换。
+在项目开发中，我们经常要根据不同的场景，采取不同的措施，也就是不同的策略</li>
+<li><strong>模版模式</strong>：模板模式就是将一个类中能够公共使用的方法放置在抽象类中实现，将不能公共使用的方法作为抽象方法，强制子类去实现，这样就做到了将一个类作为一个模板，让开发者去填充需要填充的地方。</li>
+</ul>
+<h5 id="" tabindex="-1"><a class="header-anchor" href="#" aria-hidden="true">#</a> </h5>
+<h5 id="_3-行为型模式" tabindex="-1"><a class="header-anchor" href="#_3-行为型模式" aria-hidden="true">#</a> 3.行为型模式</h5>
+<ul>
+<li><strong>代理模式</strong>：可以为另一个对象提供一个替身或者占位符，以控制对这个对象的访问。</li>
+<li><strong>选项模式</strong>：我们可以创建一个带有默认值的 struct 变量，并选择性地修改其中一些参数的值。</li>
+</ul>
+</div></template>
+
+

@@ -1,0 +1,21 @@
+<template><div><p><strong>DATETIME</strong></p>
+<p>从 MySQL 5.6 版本开始，DATETIME 类型支持毫秒，DATETIME(N) 中的 N 表示毫秒的精度。</p>
+<p><strong>TIMESTAMP</strong></p>
+<ul>
+<li>TIMESTAMP 时间戳类型，存储的内容为‘1970-01-01 00:00:00’到现在的毫秒数。</li>
+<li>MySQL 中，由于类型 TIMESTAMP 占用 4 个字节，因此其存储的时间上限只能到‘2038-01-19 03:14:07’。</li>
+<li>若带有毫秒时，类型 TIMESTAMP 占用 7 个字节，而 DATETIME 无论是否存储毫秒信息，都占用 8 个字节。</li>
+</ul>
+<h5 id="选择" tabindex="-1"><a class="header-anchor" href="#选择" aria-hidden="true">#</a> 选择</h5>
+<ol>
+<li>推荐日期类型使用 DATETIME，而不是 TIMESTAMP 和 INT 类型；</li>
+<li>INT 类型也是存毫秒数，本质和 TIMESTAMP 一样，因此用 INT 不如直接使用 TIMESTAMP。</li>
+<li>距离 TIMESTAMP 的可用最大值‘2038-01-19 03:14:07’已经很近。业务上用 TIMESTAMP 存在风险。</li>
+<li>使用 TIMESTAMP 必须显式地设置时区，不要使用默认系统时区，否则存在性能问题，推荐在配置文件中设置参数 time_zone = '+08:00'。</li>
+</ol>
+<ul>
+<li>性能问题 : 则每次通过时区计算时间时，要调用操作系统底层系统函数 __tz_convert()，这个函数需要额外的加锁操作，以确保这时操作系统时区没有修改。所以，当大规模并发访问时，由于热点资源竞争。导致性能不如 DATETIME。</li>
+</ul>
+</div></template>
+
+

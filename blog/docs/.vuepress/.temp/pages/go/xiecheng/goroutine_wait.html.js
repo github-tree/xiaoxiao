@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-9c290276\",\"path\":\"/go/xiecheng/goroutine_wait.html\",\"title\":\"主协程如何等其余协程完再操作\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"主协程如何等其余协程完再操作\",\"date\":\"2022-04-14T02:00:12.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/xiecheng/goroutine_wait.md\"}")

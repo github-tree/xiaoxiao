@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-1314d092\",\"path\":\"/go/shujuleixing/arr_slice.html\",\"title\":\"数组和切片的区别\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"数组和切片的区别\",\"date\":\"2022-04-14T00:36:52.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/shujuleixing/arr_slice.md\"}")

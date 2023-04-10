@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-60ad8de4\",\"path\":\"/redis/chijiuhua.html\",\"title\":\"数据持久化方案\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"数据持久化方案\",\"date\":\"2022-04-13T05:56:08.000Z\",\"Description\":\"\",\"Tags\":[\"RDB\",\"AOF\"]},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"redis/chijiuhua.md\"}")

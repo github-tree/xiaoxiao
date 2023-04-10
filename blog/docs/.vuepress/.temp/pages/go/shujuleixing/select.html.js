@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-3114be0b\",\"path\":\"/go/shujuleixing/select.html\",\"title\":\"select机制\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"select机制\",\"date\":\"2022-04-14T01:09:29.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/shujuleixing/select.md\"}")

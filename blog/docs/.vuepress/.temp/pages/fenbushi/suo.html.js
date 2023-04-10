@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-761db620\",\"path\":\"/fenbushi/suo.html\",\"title\":\"分布式锁实现方式\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"分布式锁实现方式\",\"date\":\"2022-04-14T00:08:06.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"fenbushi/suo.md\"}")

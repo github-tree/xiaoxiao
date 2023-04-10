@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-5e4b6780\",\"path\":\"/go/shujuleixing/struct_nil.html\",\"title\":\"空 struct{} 占用空间么\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"空 struct{} 占用空间么\",\"date\":\"2022-04-14T00:41:44.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/shujuleixing/struct_nil.md\"}")

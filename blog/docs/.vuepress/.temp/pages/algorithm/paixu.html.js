@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-59960a7d\",\"path\":\"/algorithm/paixu.html\",\"title\":\"排序算法\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"排序算法\",\"date\":\"2022-04-13T23:53:40.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"algorithm/paixu.md\"}")

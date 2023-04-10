@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-225c94dd\",\"path\":\"/redis/shaobing_jiqun.html\",\"title\":\"主从哨兵和集群的区别\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"主从哨兵和集群的区别\",\"date\":\"2022-04-13T11:34:49.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"redis/shaobing_jiqun.md\"}")

@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-1e91b676\",\"path\":\"/go/gc/why.html\",\"title\":\"在 Go 函数中为什么会发生内存泄露\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"在 Go 函数中为什么会发生内存泄露\",\"date\":\"2022-04-14T02:18:37.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/gc/why.md\"}")

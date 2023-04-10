@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-8a309de6\",\"path\":\"/go/shujuleixing/struct_bijiao.html\",\"title\":\"Struct 能不能比较\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"Struct 能不能比较\",\"date\":\"2022-04-14T00:41:35.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/shujuleixing/struct_bijiao.md\"}")

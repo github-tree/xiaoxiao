@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-11e2ef07\",\"path\":\"/go/chan/yibu.html\",\"title\":\"Channel 是同步的还是异步的？\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"Channel 是同步的还是异步的？\",\"date\":\"2022-04-14T02:10:46.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/chan/yibu.md\"}")

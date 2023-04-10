@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-5552cdf7\",\"path\":\"/go/shujuleixing/init.html\",\"title\":\"init函数\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"init函数\",\"date\":\"2022-04-14T01:10:21.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/shujuleixing/init.md\"}")

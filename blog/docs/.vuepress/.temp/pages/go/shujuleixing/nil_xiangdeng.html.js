@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-5c7f6376\",\"path\":\"/go/shujuleixing/nil_xiangdeng.html\",\"title\":\"两个 Nil 可能不相等吗\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"两个 Nil 可能不相等吗\",\"date\":\"2022-04-14T00:41:06.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/shujuleixing/nil_xiangdeng.md\"}")

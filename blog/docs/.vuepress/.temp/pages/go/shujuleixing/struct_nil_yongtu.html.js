@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-1dd665c3\",\"path\":\"/go/shujuleixing/struct_nil_yongtu.html\",\"title\":\"空 struct{} 的用途\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"空 struct{} 的用途\",\"date\":\"2022-04-14T00:46:20.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/shujuleixing/struct_nil_yongtu.md\"}")

@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-04a72fdd\",\"path\":\"/go/xiecheng/xiecheng_xian.html\",\"title\":\"协程，线程，进程的区别\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"协程，线程，进程的区别\",\"date\":\"2022-04-14T01:55:56.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/xiecheng/xiecheng_xian.md\"}")

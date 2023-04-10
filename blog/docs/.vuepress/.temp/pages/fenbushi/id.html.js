@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-7747cc4c\",\"path\":\"/fenbushi/id.html\",\"title\":\"分布式Id方案\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"分布式Id方案\",\"date\":\"2022-04-14T00:08:20.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"fenbushi/id.md\"}")

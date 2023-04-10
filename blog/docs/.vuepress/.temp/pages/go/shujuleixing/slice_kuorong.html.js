@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-00fe1746\",\"path\":\"/go/shujuleixing/slice_kuorong.html\",\"title\":\"Slice 如何扩容\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"Slice 如何扩容\",\"date\":\"2022-04-14T00:24:58.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/shujuleixing/slice_kuorong.md\"}")

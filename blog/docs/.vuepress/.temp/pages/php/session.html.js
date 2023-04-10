@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-62a91f9a\",\"path\":\"/php/session.html\",\"title\":\"SESSION 与 COOKIE\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"SESSION 与 COOKIE\",\"date\":\"2022-04-13T23:28:15.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"php/session.md\"}")

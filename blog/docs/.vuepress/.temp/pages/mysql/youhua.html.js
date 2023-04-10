@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-7cf33c84\",\"path\":\"/mysql/youhua.html\",\"title\":\"优化MYSQL数据库的方法\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"优化MYSQL数据库的方法\",\"date\":\"2022-04-13T12:06:04.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"mysql/youhua.md\"}")

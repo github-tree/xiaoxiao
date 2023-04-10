@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-44b182d7\",\"path\":\"/go/bao/context.html\",\"title\":\"Context\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"Context\",\"date\":\"2022-04-14T01:12:07.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/bao/context.md\"}")

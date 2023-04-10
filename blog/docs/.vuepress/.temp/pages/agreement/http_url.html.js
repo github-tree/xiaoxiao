@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-9d8ae77a\",\"path\":\"/agreement/http_url.html\",\"title\":\"浏览器解析 URL 过程\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"浏览器解析 URL 过程\",\"date\":\"2022-04-13T12:54:38.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"agreement/http_url.md\"}")

@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-85a9c1f0\",\"path\":\"/go/shejimoshi.html\",\"title\":\"常用设计模式\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"常用设计模式\",\"date\":\"2022-04-14T01:24:18.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/shejimoshi.md\"}")

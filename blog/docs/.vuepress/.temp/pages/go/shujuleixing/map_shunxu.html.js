@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-2d8a13d9\",\"path\":\"/go/shujuleixing/map_shunxu.html\",\"title\":\"map 如何实现顺序读取\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"map 如何实现顺序读取\",\"date\":\"2022-04-14T00:25:20.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/shujuleixing/map_shunxu.md\"}")

@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-15a55bda\",\"path\":\"/go/gc/jingtai.html\",\"title\":\"竞态\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"竞态\",\"date\":\"2022-04-14T02:15:07.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/gc/jingtai.md\"}")

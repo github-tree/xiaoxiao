@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-3fcc14b9\",\"path\":\"/mysql/suoyin_guanli.html\",\"title\":\"B+ 树索引的管理\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"B+ 树索引的管理\",\"date\":\"2022-04-14T03:09:21.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"mysql/suoyin_guanli.md\"}")

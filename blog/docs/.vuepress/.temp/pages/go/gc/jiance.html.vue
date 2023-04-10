@@ -1,0 +1,4 @@
+<template><div><p>可以通过 Go 自带的工具 pprof 或者使用 Gops 去检测诊断当前在系统上运行的 Go 进程的占用的资源。</p>
+</div></template>
+
+

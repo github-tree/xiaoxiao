@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-2a74f2a0\",\"path\":\"/go/shujuleixing/zhi_yinyong_jieshou.html\",\"title\":\"值接收者和指针接收者的区别\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"值接收者和指针接收者的区别\",\"date\":\"2022-04-14T00:48:15.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/shujuleixing/zhi_yinyong_jieshou.md\"}")

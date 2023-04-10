@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-51c9660d\",\"path\":\"/go/shujuleixing/rune.html\",\"title\":\"什么是 rune 类型\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"什么是 rune 类型\",\"date\":\"2022-04-14T00:24:54.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/shujuleixing/rune.md\"}")

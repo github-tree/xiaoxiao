@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-3522980c\",\"path\":\"/go/chan/anquan.html\",\"title\":\"channel 为什么它可以做到线程安全？\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"channel 为什么它可以做到线程安全？\",\"date\":\"2022-04-14T02:09:44.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/chan/anquan.md\"}")

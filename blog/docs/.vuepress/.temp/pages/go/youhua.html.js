@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-05590216\",\"path\":\"/go/youhua.html\",\"title\":\"性能优化\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"性能优化\",\"date\":\"2022-04-14T01:29:03.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/youhua.md\"}")

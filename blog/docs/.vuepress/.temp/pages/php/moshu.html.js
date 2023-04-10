@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-3d02d02a\",\"path\":\"/php/moshu.html\",\"title\":\"常用的魔术方法及规则\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"常用的魔术方法及规则\",\"date\":\"2022-04-13T23:27:48.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"php/moshu.md\"}")

@@ -1,0 +1,20 @@
+<template><div><p>归并排序和快速排序是两种稍微复杂的排序算法，它们用的都是分治的思想，代码都通过递归来实现，过程非常相似。</p>
+<!--more-->
+<ul>
+<li>
+<p>归并排序</p>
+<ul>
+<li>如果要排序一个数组，我们先把数组从中间分成前后两部分，然后对前后两部分分别排序，再将排好序的两部分合并在一起，这样整个数组就都有序了。</li>
+</ul>
+</li>
+<li>
+<p>快速排序</p>
+<ul>
+<li>如果要排序数组中下标从 p 到 r 之间的一组数据，我们选择 p 到 r 之间的任意一个数据作为 pivot（分区点）。我们遍历 p 到 r 之间的数据，将小于 pivot 的放到左边，将大于 pivot 的放到右边，将 pivot 放到中间。经过这一步骤之后，数组 p 到 r 之间的数据就被分成了三个部分，前面 p 到 q-1 之间都是小于 pivot 的，中间是 pivot，后面的 q+1 到 r 之间是大于 pivot 的。
+<img src="https://blog.guxiao.info/images/aa03ae570dace416127c9ccf9db8ac05.jpg" alt="Image text"></li>
+</ul>
+</li>
+</ul>
+</div></template>
+
+

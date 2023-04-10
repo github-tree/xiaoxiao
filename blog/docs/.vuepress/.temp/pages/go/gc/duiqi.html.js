@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-7f0b33ee\",\"path\":\"/go/gc/duiqi.html\",\"title\":\"Go 语言中的内存对齐了解吗？\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"Go 语言中的内存对齐了解吗？\",\"date\":\"2022-04-14T02:20:12.000Z\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"go/gc/duiqi.md\"}")
